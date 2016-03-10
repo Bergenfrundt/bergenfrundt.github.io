@@ -3,7 +3,7 @@ html {
 	background-repeat: no-repeat;
 	background-position: center center;
 	background-color: #eee;
-	background-size: auto;
+	background-size: contain;
 	font-size: 1em;
 }
 body {
