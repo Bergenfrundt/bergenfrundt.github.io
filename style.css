@@ -1,5 +1,7 @@
 html {
 	background-image: url("merica.png");
+	background-repeat: no-repeat;
+	background-position: center center;
 	background-color: #eee;
 	font-size: 1em;
 }
