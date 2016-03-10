@@ -2,6 +2,7 @@ html {
 	background-image: url("mericaa.jpg");
 	background-repeat: no-repeat;
 	background-position: center center;
+	background-size: 100%;
 	background-color: #eee;
 	font-size: 1em;
 }
